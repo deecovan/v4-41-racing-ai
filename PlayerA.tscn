@@ -1,9 +1,9 @@
 [gd_scene load_steps=10 format=3 uid="uid://c0mc0r6m88auy"]
 
-[ext_resource type="Script" path="res://PlayerA.gd" id="1_khco6"]
-[ext_resource type="Texture2D" uid="uid://b620ow8kf8ytn" path="res://Art/Cars/cyan.png" id="2_2ekgg"]
+[ext_resource type="Script" uid="uid://crcoahknb871f" path="res://PlayerA.gd" id="1_khco6"]
+[ext_resource type="Texture2D" uid="uid://b4qtfx47oknbu" path="res://Art/Cars/cyan.png" id="2_2ekgg"]
 [ext_resource type="PackedScene" uid="uid://b4ky68tisr70d" path="res://CyanPoint.tscn" id="3_str8i"]
-[ext_resource type="Texture2D" uid="uid://c60wm4x7ao5od" path="res://Art/Cars/cyan_right.png" id="4_8iv3w"]
+[ext_resource type="Texture2D" uid="uid://clcxa8k2ox3cj" path="res://Art/Cars/cyan_right.png" id="4_8iv3w"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ibbax"]
 size = Vector2(32, 16)

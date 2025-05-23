@@ -12,10 +12,10 @@ config_version=5
 
 config/name="RMK"
 run/main_scene="res://MainCurve.tscn"
-config/features=PackedStringArray("4.3", "GL Compatibility")
+config/features=PackedStringArray("4.4", "GL Compatibility")
 run/max_fps=60
-boot_splash/image="res://Art/Cars/cyan.png"
 boot_splash/use_filter=false
+boot_splash/image="res://Art/Cars/cyan.png"
 config/icon="res://icon.svg"
 boot_splash/minimum_display_time=5
 

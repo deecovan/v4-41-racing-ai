@@ -1,6 +1,6 @@
 [gd_scene load_steps=3 format=3 uid="uid://dsokgsfl8y6fi"]
 
-[ext_resource type="Script" path="res://Track.gd" id="1_4dbfs"]
+[ext_resource type="Script" uid="uid://b2mlb8sklbxi1" path="res://Track.gd" id="1_4dbfs"]
 
 [sub_resource type="Curve2D" id="Curve2D_yomsh"]
 _data = {

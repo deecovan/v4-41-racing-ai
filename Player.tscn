@@ -1,7 +1,7 @@
 [gd_scene load_steps=4 format=3 uid="uid://c0mc0r6m88auy"]
 
-[ext_resource type="Texture2D" uid="uid://b620ow8kf8ytn" path="res://Art/Cars/cyan.png" id="2_2ekgg"]
-[ext_resource type="Script" path="res://Player.gd" id="2_7r827"]
+[ext_resource type="Texture2D" uid="uid://b4qtfx47oknbu" path="res://Art/Cars/cyan.png" id="2_2ekgg"]
+[ext_resource type="Script" uid="uid://sw4q3psskrq0" path="res://Player.gd" id="2_7r827"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ibbax"]
 size = Vector2(32, 16)
