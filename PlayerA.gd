@@ -20,7 +20,7 @@ var gConst: float = 9.81
 @export var longitude_acc_limit := 2.0 ## acceleration limit in g. 3g equals 3*9.81=29.43  20px/s*s
 @export var longitude_decl_limit := 3.0 ## decceleration/breaking limit in g. 3g equals 3*9.81=29.43  20px/s*s
 @export var ang_speed    := 0.25   ## max angular speed in radians/s
-@export var look_step    := 0.15   ## look step to look ahead (s)
+@export var look_step    := 0.2   ## look step to look ahead (s)
 @export var look_ahead   := 3.0    ## look ahead in seconds
 ## Tested max speed in last changed logic was 131.32
 @export var max_speed    := 100.0  ## Max speed in pixels/second
